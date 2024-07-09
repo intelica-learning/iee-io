@@ -85,6 +85,10 @@ El problema de Flair Furniture es determinar la mejor combinación posible de me
 
 Trabajaremos en el archivo de [Google Sheets](https://docs.google.com/spreadsheets/d/1fCO89NuAsVOjitelD0jaTXCqhn9fbdsF61Y46rj12oQ/edit?usp=sharing) los primeros modelos.
 
+Para graficar usamos [GeoGebra](https://www.geogebra.org/classroom/msuxdfmr).
+
+Para resolver usando Python usamos ([Google Colab](https://colab.research.google.com/drive/1oNDR4TsuWjz3ZwCf7wpvZ79RkCU2zMDc?usp=sharing))
+
 #### Ejercicio 1.
-La corporación Electrocomp fabrica dos productos eléc- tricos: acondicionadores de aire y ventiladores de gran tamaño. El proceso de ensamblado para cada uno es similar en tanto que requieren una cierta cantidad de ca- bleado y de perforación. Cada acondicionador de aire tarda 3 horas de cableado y 2 horas de perforación. Cada ventilador tiene que pasar por 2 horas de cableado y 1 hora de perforación. En el siguiente periodo de pro- ducción, están disponibles 240 horas de tiempo de ca- bleado y hasta 140 horas de tiempo de perforación que se pueden utilizar. Cada aparato de acondicionador de aire vendido genera una utilidad de $25. Cada venti- lador ensamblado se puede vender con una utilidad de $15. Formule y resuelva esta situación de la mezcla pro- ducción de PL para encontrar la mejor combinación de acondicionadores de aire y ventiladores que genera la mayor utilidad. Use el método gráfico de punto esquina.
+La corporación Electrocomp fabrica dos productos eléctricos: acondicionadores de aire y ventiladores de gran tamaño. El proceso de ensamblado para cada uno es similar en tanto que requieren una cierta cantidad de ca- bleado y de perforación. Cada acondicionador de aire tarda 3 horas de cableado y 2 horas de perforación. Cada ventilador tiene que pasar por 2 horas de cableado y 1 hora de perforación. En el siguiente periodo de producción, están disponibles 240 horas de tiempo de ca- bleado y hasta 140 horas de tiempo de perforación que se pueden utilizar. Cada aparato de acondicionador de aire vendido genera una utilidad de $25. Cada ventilador ensamblado se puede vender con una utilidad de $15. Formule y resuelva esta situación de la mezcla producción de PL para encontrar la mejor combinación de acondicionadores de aire y ventiladores que genera la mayor utilidad. Use el método gráfico de punto esquina.
 
