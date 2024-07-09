@@ -9,6 +9,8 @@ Curso de Modelos Cuantitativos e Investigación de Operaciones para alumnos de l
 ## Sesiones
 ### Sesión 1 [02/07/2024]. Introducción a la Investigación de Operaciones en Finanzas
 
+Ver el contenido de la [primera sesión](https://github.com/intelica-learning/iee-io/blob/f773b1bc6979d815bbc461f6ab5d7a4974306333/sesion1.md)
+
 En esta sesión damos una introducción a los modelos cuantitativos y la investigación de operaciones, sobre todo en lo que respecta a aplicaciones en finanzas corporativas.
 
 El análisis cuantitativo es el enfoque científico de la toma de decisiones administrativa. El capricho, las emociones y la adivinación no forman parte del enfoque del análisis cuantitativo. Este enfoque comienza con datos. Al igual que con la materia prima para una fábrica, los datos se manipulan o se procesan para convertirlos en información para quienes toman decisiones. Este proceso y manipulación de los datos convertidos en información significativa son la esencia del análisis cuantitativo. Las computadoras han jugado un papel decisivo en el uso creciente del análisis cuantitativo.		
