@@ -8,3 +8,6 @@ problema a partir del modelo.
 4. Prueba del modelo y mejoramiento de acuerdo con las necesidades.
 5. Preparación para la aplicación del modelo prescrito por la administración.
 6. Implementación.
+
+#### Ejercicios
+Trabaja en los ejercicios de la [hoja de práctica](https://docs.google.com/document/d/1b9TonDlfm9-eYLlFcbCIJ_ivpIr00k9cK9h5U9kW0M4/edit?usp=sharing)
