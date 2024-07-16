@@ -14,3 +14,6 @@ Lee el artículo [OR and Financial Management](https://github.com/intelica-learn
 
 #### Ejercicios
 Trabaja en los ejercicios de la [hoja de práctica](https://docs.google.com/document/d/1b9TonDlfm9-eYLlFcbCIJ_ivpIr00k9cK9h5U9kW0M4/edit?usp=sharing)
+
+#### Tarea
+Elige uno de los problemas 
