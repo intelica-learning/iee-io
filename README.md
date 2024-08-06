@@ -8,14 +8,4 @@ Curso de Modelos Cuantitativos e Investigación de Operaciones para alumnos de l
 - [LinkedIn](https://www.linkedin.com/in/omargrojas/)
 
 
-## Sesiones
-### Sesión 1 [02/07/2024]. Introducción a la Investigación de Operaciones en Finanzas
-
-Ver el contenido de la [primera sesión](https://github.com/intelica-learning/iee-io/blob/f773b1bc6979d815bbc461f6ab5d7a4974306333/sesion1.md)
-
-### Sesión 2 [09/07/2024]. Introducción a la Programación Lineal
-
-Ver el contenido de la [segunda sesión](https://github.com/intelica-learning/iee-io/blob/43844f1575e2419ff1e1f27c0723ac4078dd5356/sesion2.md)
-
-
 
