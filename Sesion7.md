@@ -1,4 +1,4 @@
-### Sesión 7 [13/08/2024]. Portafolios de inversión
+### Sesión 7 [13/08/2024]. Portafolios de inversión. Análisis de Decisiones.
 
 #### Lecturas
 [Portfolio Selection](https://drive.google.com/file/d/1_kF8B0Is7F7-Hk0oBoQquNV-jvfJ4bS8/view?usp=drive_link) es el artículo seminal de MArkowitz.
@@ -10,3 +10,5 @@
 [Capital Asset Prices with and without Negative Holding](https://www.nobelprize.org/prizes/economic-sciences/1990/sharpe/lecture/)
 
 
+Antes de entrar a los modelos de portafolios, es necesario entender el concepto de análisis de decisiones bajo riesgo e incertidumbre.
+#### Análisis de Decisiones.
