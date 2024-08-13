@@ -11,4 +11,6 @@
 
 
 Antes de entrar a los modelos de portafolios, es necesario entender el concepto de análisis de decisiones bajo riesgo e incertidumbre.
+
 #### Análisis de Decisiones.
+Lee el documento [The Quarterback in the Pocket](https://drive.google.com/file/d/19ZqQl6UODGta_WXe5ZhqYFhzbTZTGwoy/view?usp=sharing) y contesta la [Guía de Lectura](https://docs.google.com/document/d/1QeGfzKwMCOJxdagIiyUG9drebumd0IeKedA_leYVLDA/edit?usp=sharing)
