@@ -8,3 +8,5 @@ Pueden consultar el capítulo sobre [Análisis de Decisiones](https://drive.goog
 
 #### Tarea
 [Ejercicios](https://docs.google.com/document/d/1wVcqLxhBjmvVNzgZeFo0RqU6bo4pGHtWnaemdwucVKY/edit?usp=sharing) de Análisis de Decisiones
+
+#### Evaluación de aplicaciones de Programación Lineal
