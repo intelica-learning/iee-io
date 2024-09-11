@@ -12,9 +12,12 @@
 
 Antes de entrar a los modelos de portafolios, es necesario entender el concepto de análisis de decisiones bajo riesgo e incertidumbre.
 
-#### Análisis de Decisiones. TAREA
+### Análisis de Decisiones
+
+#### Tarea 5
 Lee el documento [The Quarterback in the Pocket](https://drive.google.com/file/d/19ZqQl6UODGta_WXe5ZhqYFhzbTZTGwoy/view?usp=sharing) y contesta la [Guía de Lectura](https://docs.google.com/document/d/1QeGfzKwMCOJxdagIiyUG9drebumd0IeKedA_leYVLDA/edit?usp=sharing)
 
+#### Tarea 6
 Daniel Kahneman ganó el [Nobel de Economía en 2002](https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/facts/). Hizo aportaciones importants en la teoría de toma de decisiones. Uno de sus artículos seminales es [Judgment under Uncertainty: Heuristics and Biases](https://www2.psych.ubc.ca/~schaller/Psyc590Readings/TverskyKahneman1974.pdf). Lee el documento y contesta la siguiente [guía de lectrua](https://docs.google.com/document/d/1X7Cj4ElaYmdw4n4p-8qFbcDweQ3YRSSeRXBK2VUQzBs/edit?usp=sharing). 
 
 
