@@ -15,5 +15,5 @@ Lee el artículo [OR and Financial Management](https://github.com/intelica-learn
 #### Ejercicios
 Trabaja en los ejercicios de la [hoja de práctica](https://docs.google.com/document/d/1b9TonDlfm9-eYLlFcbCIJ_ivpIr00k9cK9h5U9kW0M4/edit?usp=sharing)
 
-#### Tarea
+#### Tarea [NO HACER]
 Elige uno de los problemas del [capítulo 9](https://github.com/intelica-learning/iee-io/blob/a17fd90c6522b6431a3e5f8e8fdbbe9cb09edf0d/Cap9_Anderson_Metodos_Cuantitativos_Negocios.pdf) del libro de Métodos Cuantitativos aplicados a Negocios de Anderson para que expongas en clase. Prepara el problema, la presentación y la solución, así como posibles preguntas abiertas que podrían resultar del mismo.
